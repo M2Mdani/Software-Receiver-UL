@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SoftwareReceiverWindowsService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProxyServerIp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">212.116.138.116</Value>
+    </Setting>
+    <Setting Name="ProxyServerPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4545</Value>
+    </Setting>
+    <Setting Name="CmsServerPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4545</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
